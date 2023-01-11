@@ -13,18 +13,6 @@
       "id": 2
     },
     {
-      "title": "notes",
-      "body": "hello",
-      "author": "othmane",
-      "id": 3
-    },
-    {
-      "title": "Learning react",
-      "body": "I'm trying to be a full-stack developper",
-      "author": "othmane",
-      "id": 4
-    },
-    {
       "title": "first react project",
       "body": "I'm almost done with my first react project",
       "author": "mario",
